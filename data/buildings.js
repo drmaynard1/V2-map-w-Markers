@@ -24,7 +24,7 @@ let buildings =
     {"type": "Feature", "properties": {"name": "Arborfeild Police Department", "style": "Police"}, "geometry": {"type": "Point", "coordinates": [180.9375,-635.75]}},
     {"type": "Feature", "properties": {"name": "Arborfeild Municipal Court", "style": "Court"}, "geometry": {"type": "Point", "coordinates": [214,-638]}},
     {"type": "Feature", "properties": {"name": "Path's Guns", "style": "Gunstore"}, "geometry": {"type": "Point", "coordinates": [176.25,-617.5]}},
-    {"type": "Feature", "properties": {"name": "Firestone Bicycle's", "style": "Shopping"}, "geometry": {"type": "Point", "coordinates": [182.0625,-675.125]}},
+    {"type": "Feature", "properties": {"name": "Firestone Bicycle's", "style": "DOCM"}, "geometry": {"type": "Point", "coordinates": [182.0625,-675.125]}},
     {"type": "Feature", "properties": {"name": "Firestone Bureau of Investigation", "style": "Police"}, "geometry": {"type": "Point", "coordinates": [157.875,-679.0625]}},
     {"type": "Feature", "properties": {"name": "Arborfeild Bank", "style": "Bank"}, "geometry": {"type": "Point", "coordinates": [171.125,-684.1875]}},
     {"type": "Feature", "properties": {"name": "Arborfeild Auto Salvage", "style": "Car"}, "geometry": {"type": "Point", "coordinates": [300,-423]}},
@@ -46,4 +46,3 @@ let buildings =
     {"type": "Feature", "properties": {"name": "Government Boat Dock", "style": "Boat"}, "geometry": {"type": "Point", "coordinates": [693.53125,-168.3125]}}
   ]
 }
-
